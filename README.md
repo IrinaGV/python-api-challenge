@@ -1,4 +1,4 @@
-This Python-api-challenge consists two assignements. The first one is WeatherPY. The script visualizes the weather of 500+ cities across the world of varying distance from the equator. I utilized a simple Python library, the OpenWeatherMap API and  created a representative model of weather across world cities.
+This Python-api-challenge consists of two assignements. The first one is WeatherPY. The script visualizes the weather of 500+ cities across the world of varying distance from the equator. I utilized a simple Python library, the OpenWeatherMap API and  created a representative model of weather across world cities.
 I created a series of scatter plots to showcase the following relationships:
 
 Temperature (F) vs. Latitude
